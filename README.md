@@ -1,4 +1,4 @@
-#STATUES CAN TALK
+<b>#STATUES CAN TALK</b>
 
 This is a project made for Sapienza's course "Vision and Perception".
 
