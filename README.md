@@ -4,18 +4,24 @@ This is a project made for Sapienza's course "Vision and Perception".
 
 This is an accademic project that aim to spread the culture in a different and technological way.
 Soon we hope to develop also an application that will be the final goal of this idea.
+<br>
+<br>
+<br>
 
 
-
-##RUN THE CODE##
+<b>##RUN THE CODE##</b>
 
 To run this code (final.py) and doing the experiment you have to create a "Vision" folder on your google drive and put all this repo inside.
 
 Otherwise you have to change the path of the loaded files in the code according to your repo disposition.
 
+You can run the experiment for each video on "Try" folder changing the "video_path" variable on final.py (all video in "Try" repo are new video, and weren't use to train the classifier). You can also take a video and try it.
+<br>
+<br>
+<br>
 
 
-##CODE TO BUILD DATASET AND CLASSIFIER##
+<b>##CODE TO BUILD DATASET AND CLASSIFIER##</b>
 
 We have put also the code to build a new dataset '.pt' (from images) on "Dataset_creator" and to fine tune a classifier on "Classificator_training", 
 but to use this code you have to adjust the path and maybe adjust some parameters based on your need.
